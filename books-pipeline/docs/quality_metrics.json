@@ -1,0 +1,14 @@
+{
+    "registros_goodreads": 30,
+    "registros_googlebooks": 26,
+    "libros_finales_dim": 56,
+    "pct_nulos_titulo": 0.0,
+    "pct_nulos_isbn13": 0.5535714285714286,
+    "pct_nulos_precio": 0.75,
+    "duplicados_por_book_id_candidato": 0,
+    "precio_valido_rango": true,
+    "filas_por_fuente": {
+        "goodreads": 30,
+        "googlebooks": 26
+    }
+}
